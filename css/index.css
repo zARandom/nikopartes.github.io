@@ -1,0 +1,30 @@
+
+
+.navegador li{
+    display: inline;
+    font-size: 30px;
+}
+.navegador a{
+    color: beige;
+    margin: 30px;
+}
+
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+P{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+
